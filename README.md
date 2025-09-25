@@ -1,4 +1,3 @@
-# Customer-Segmentaion-of-online-retail-customers
 
 # Online Retail Customer Segmentation
 
